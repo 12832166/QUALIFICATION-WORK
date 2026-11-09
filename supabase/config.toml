@@ -1,0 +1,3 @@
+[functions.guest-files]
+verify_jwt = false
+
